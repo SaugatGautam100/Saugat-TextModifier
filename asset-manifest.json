@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Saugat-TextModifier/static/css/main.76aec624.css",
+    "main.js": "/Saugat-TextModifier/static/js/main.02f735d3.js",
+    "static/js/453.ed3810f9.chunk.js": "/Saugat-TextModifier/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Saugat-TextModifier/index.html",
+    "main.76aec624.css.map": "/Saugat-TextModifier/static/css/main.76aec624.css.map",
+    "main.02f735d3.js.map": "/Saugat-TextModifier/static/js/main.02f735d3.js.map",
+    "453.ed3810f9.chunk.js.map": "/Saugat-TextModifier/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aec624.css",
+    "static/js/main.02f735d3.js"
+  ]
+}
